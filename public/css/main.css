@@ -1,0 +1,45 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    background-image: url(../imgs/body-bg.jpg);
+}
+#formcontent{
+    background-color: white;
+    width:  35%;
+    height: 93vh;
+    position: absolute;
+    top: 4%;
+    left: 8%;
+}
+.form-control{
+    display: block;
+    width: 70%;
+    margin: 30px;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+.bl{
+    display: block;
+    margin-left: 7%;
+
+}
+.lb2{
+    display: block;
+    margin-left: 7%;
+}
+#accept{
+   margin-left: 20px;
+}
+#Request{
+    width: 33px;
+    background-color: blue;
+    margin-left:20px ;
+    border-radius: 5px;
+    box-shadow: 0.3px 0.2px 10px;
+}
